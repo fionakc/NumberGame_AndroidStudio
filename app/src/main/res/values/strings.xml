@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NumberGuessGame</string>
+    <string name="start_txt">Ready to Play?</string>
+    <string name="start">Start!</string>
+    <string name="info_txt_1">The Computer will choose a number between 0 and 9</string>
+    <string name="guess">Guess</string>
+    <string name="restart">Restart</string>
+    <string name="guess_a_number">Guess a number!</string>
+    <string name="valid_number">Please enter a valid number</string>
+    <string name="too_low">Too Low!</string>
+    <string name="too_high">Too High!</string>
+    <string name="past_guesses">Past guesses:</string>
+    <string name="congrats_txt">Congratulations, you\'ve won!</string>
+    <string name="click_to_brag">Click to brag</string>
+    <string name="image_describe_trophy">A clipart of a gold trophy</string>
+    <string name="click_to_play_again">Click to play again</string>
+</resources>
